@@ -1,15 +1,19 @@
 {
-    "name": "sima-land/api-v5-php-client",
+    "name": "bmxnt/api-v5-php-client",
     "type": "library",
     "description": "Client library for Simaland APIs",
     "keywords": ["simaland", "api", "php", "client"],
-    "homepage": "https://github.com/sima-land/api-v5-php-client",
+    "homepage": "https://github.com/bmxnt/api-v5-php-client",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
             "name": "Evgeny Gavrilov",
             "email": "e.r.gavrilov@gmail.com"
+        },
+        {
+            "name": "Dmitry Dolgushin",
+            "email": "bmxnt66@gmail.com"
         }
     ],
     "require": {
